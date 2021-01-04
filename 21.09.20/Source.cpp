@@ -69,6 +69,7 @@ public:
 class editor :public employee{
 
 protected:
+	int aaa;
 
 	int salary;
 
